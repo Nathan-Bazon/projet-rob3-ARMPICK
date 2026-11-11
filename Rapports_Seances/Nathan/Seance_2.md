@@ -12,14 +12,14 @@ Lancement des impressions : Paramétrage sous PrusaSlicer et impression des comp
 <img width="600" height="800" alt="piecesimprimees1" src="./impressionpieces1.jpg" />
 
 
-<img width="800" height="600" alt="impressionpieces1" src="./piecesimprimees1.jpg" />
+<img width="600" height="800" alt="impressionpieces1" src="./piecesimprimees1.jpg" />
 
 
 
 4. Avancées Électriques, Apprentissages et Difficultés Rencontrées
 Apprentissages techniques : Acquisition des compétences de base pour le dénudage des câbles électriques et la réalisation de soudures propres pour raccorder les composants (pompe et électrovanne).
 
-<img width="1080" height="1400" alt="premieressoudures" src="./premieressoudures.jpg" />
+<img width="540" height="700 alt="premieressoudures" src="./premieressoudures.jpg" />
 
 
 Développement du circuit pneumatique : Recherche d'un nouvel adaptateur qui corresponde au voltage de la pompe et de l'électrovanne, branchements entre les différents composants.
