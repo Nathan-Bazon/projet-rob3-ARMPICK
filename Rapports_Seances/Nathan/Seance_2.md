@@ -9,9 +9,19 @@ Cette deuxième séance a été dédiée à l'ajustement mécanique des pièces 
 Redimensionnement des pièces : Ajustement des dimensions de certaines pièces afin d'élargir les logements et d'intégrer correctement les moteurs qui ne rentraient pas dans les emplacements prévus initialement.
 Lancement des impressions : Paramétrage sous PrusaSlicer et impression des composants modifiés. Difficulté à imprimer du fait d'un nombre important de machine en cours d'impression.
 
+<img width="1204" height="1600" alt="piecesimprimees1" src="https://github.com/user-attachments/assets/309d9cc3-bf05-481a-8510-a2edd9b5c048" />
 
-3. Avancées Électriques, Apprentissages et Difficultés Rencontrées
+
+<img width="1600" height="1204" alt="impressionpieces1" src="https://github.com/user-attachments/assets/c720c1c5-a31b-41d2-a097-94441a8ae37a" />
+
+
+
+4. Avancées Électriques, Apprentissages et Difficultés Rencontrées
 Apprentissages techniques : Acquisition des compétences de base pour le dénudage des câbles électriques et la réalisation de soudures propres pour raccorder les composants (pompe et électrovanne).
+
+<img width="2160" height="2880" alt="premieressoudures" src="https://github.com/user-attachments/assets/7ece1cfc-e693-47c7-a6a8-b36a6cc1f17a" />
+
+
 Développement du circuit pneumatique : Recherche d'un nouvel adaptateur qui corresponde au voltage de la pompe et de l'électrovanne, branchements entre les différents composants.
 Problématique de outillage : Difficulté rencontrée lors du montage du bornier à vis du module de puissance, faute de disposer d'un tournevis de précision aux dimensions adéquates dans l'immédiat (résolu temporairement grâce au prêt du matériel d'Eliot).
 
