@@ -12,6 +12,8 @@ Cela était dû au fait que la partie puissance des bobines (broches JD-VCC) n'�
 pour commuter la puissance 12V provenant des bornes COM vers les sorties NO, tandis que les masses (-) étaient regroupées via un connecteur Wago. Enfin, un programme de test séquentiel a été téléversé sur l'Arduino pour
 valider le fonctionnement en boucle des actionneurs.
 
+![Circuit pneumatique Arduino].\image1.jpg
+
 Code de test : 
 const int pumpPin = 7;
 const int valvePin = 8;
