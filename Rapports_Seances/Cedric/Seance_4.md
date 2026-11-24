@@ -5,5 +5,5 @@ Cependant, lors de l'assemblage de certaine pièces, nous avons constaté que ce
 
 Concernant le problème de la séance dernière, le raccord pour le tuyau est exactement à la bonne taille, il va donc falloir que je trouve en amont de la prochaine séance le moyen de renforcer cette pièce pour qu'elle convienne le mieux possible pour le robot.
 
-![Séance limage dans l'atelier](./1000027556.jpg)
-![début de l'assemblage du robot](./1000027547.jpg)
+![Séance limage dans l'atelier](./1000027547.jpg)
+![début de l'assemblage du robot](./1000027556.jpg)
